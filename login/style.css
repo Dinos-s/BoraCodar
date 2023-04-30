@@ -119,6 +119,10 @@ input:hover{
     outline: none;
 }
 
+input:disabled{
+    opacity: 0.35;
+}
+
 input::placeholder{
     color: #94a3b8
 }
@@ -135,7 +139,7 @@ input::placeholder{
     width: 2rem;
     height: 2rem; 
     position: absolute;
-    top: 52%;
+    top: 55%;
     right: 5%;
 }
 
