@@ -5,6 +5,6 @@
 |  #  |  Nome  | Code  | Link |
 | :-- | :----- | :---- | :----|
 | `11` | `Login` | [🧾](https://github.com/Dinos-s/BoraCodar/tree/master/login) | [🖥](https://dinos-s.github.io/BoraCodar/login/)
-| `13` | `Form Card` | [🧾](https://github.com/Dinos-s/BoraCodar/tree/master/card-flip) | [🖥](https://dinos-s.github.io/BoraCodar/card-file/)
+| `13` | `Form Card` | [🧾](https://github.com/Dinos-s/BoraCodar/tree/master/card-flip) | [🖥](https://dinos-s.github.io/BoraCodar/card-flip/)
 | `14` | `Upload Files` | [🧾](https://github.com/Dinos-s/BoraCodar/tree/master/upload-files) | [🖥](https://dinos-s.github.io/BoraCodar/upload-files/)
 | `17` | `Calendario` | [🧾](https://github.com/Dinos-s/BoraCodar/tree/master/calendario) | [🖥](https://dinos-s.github.io/BoraCodar/calendario/)
