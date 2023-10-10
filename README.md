@@ -8,3 +8,4 @@
 | `13` | `Form Card` | [🧾](https://github.com/Dinos-s/BoraCodar/tree/master/card-flip) | [🖥](https://dinos-s.github.io/BoraCodar/card-flip/)
 | `14` | `Upload Files` | [🧾](https://github.com/Dinos-s/BoraCodar/tree/master/upload-files) | [🖥](https://dinos-s.github.io/BoraCodar/upload-files/)
 | `17` | `Calendario` | [🧾](https://github.com/Dinos-s/BoraCodar/tree/master/calendario) | [🖥](https://dinos-s.github.io/BoraCodar/calendario/)
+| `18` | `Filmes IA` | [🧾](https://github.com/Dinos-s/BoraCodar/tree/master/filmes-IA) | [🖥](https://dinos-s.github.io/BoraCodar/filmes-IA)
